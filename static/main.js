@@ -139,7 +139,7 @@ fetch('./socials.json')
 			button.target = '_blank';
 			button.rel = 'noopener';
 			button.role = 'button';
-			button.dataset.umamiEvent = `social-${social.name.toLowerCase()}`;
+			button.dataset.umamiEvent = `social-${social.name.toLowerCase().replace(' ', '_')}`;
 			button.innerHTML = `<img src="https://cdn.statically.io/gh/sethcottle/littlelink/main/images/icons/${logo}.svg" alt="${name} Logo" />${name}`;
 			socialsContainer.appendChild(button);
 		});

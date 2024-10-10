@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Twitch",
+		"url": "twitch.tv/ZonianMidian"
+	},
+	{
+		"name": "X",
+		"url": "x.com/ZonianMidian"
+	},
+	{
+		"name": "Discord",
+		"url": "discord.gg/rMjftZx8Ex"
+	},
+	{
+		"name": "GitHub",
+		"url": "github.com/ZonianMidian"
+	},
+	{
+		"name": "Letterboxd",
+		"url": "letterboxd.com/ZonianMidian"
+	},
+	{
+		"name": "LastFM",
+		"slug": "last-fm",
+		"icon": "last-fm",
+		"url": "last.fm/user/ZonianMidian"
+	},
+	{
+		"name": "Spotify",
+		"url": "open.spotify.com/user/xz9et9zu34etctq0d7kl54j8p"
+	},
+	{
+		"name": "YouTube",
+		"slug": "yt",
+		"url": "youtube.com/@ZonianMidian"
+	},
+	{
+		"name": "Instagram",
+		"url": "instagram.com/ZonianMidian"
+	},
+	{
+		"name": "Steam",
+		"slug": "steam-alt",
+		"url": "steamcommunity.com/id/ZonianMidian"
+	},
+	{
+		"name": "Facebook",
+		"slug": "faceb",
+		"url": "facebook.com/ZonianMidian"
+	},
+	{
+		"name": "Reddit",
+		"url": "reddit.com/u/ZonianMidian"
+	},
+	{
+		"name": "Ko-fi",
+		"url": "ko-fi.com/ZonianMidian"
+	},
+	{
+		"name": "Buy Me a Coffee",
+		"slug": "coffee",
+		"icon": "buy-me-a-coffee",
+		"url": "buymeacoffee.com/ZonianMidian"
+	}
+]
